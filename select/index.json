@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "Love, lala ~恋の行方~",
+  "base_artist": "eill",
+  "createdAt": "2026-03-29T16:16:43.789560Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "L.A. Love (lala)",
+      "artist": "Fergie",
+      "has_synced": true,
+      "path": "select/01_L.A._Love_(lala)_Fergie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "L.A. Love (Lala)",
+      "artist": "Fergie",
+      "has_synced": true,
+      "path": "select/02_L.A._Love_(Lala)_Fergie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "L.A. Love (Lala)",
+      "artist": "Fergie",
+      "has_synced": false,
+      "path": "select/03_L.A._Love_(Lala)_Fergie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "L.A. Love (LALA)",
+      "artist": "Fergie",
+      "has_synced": true,
+      "path": "select/04_L.A._Love_(LALA)_Fergie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "L.A. Love (Lala)",
+      "artist": "Fergie",
+      "has_synced": false,
+      "path": "select/05_L.A._Love_(Lala)_Fergie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Generations Of Love (Lala Gone Gaga Mix)",
+      "artist": "Jesus Loves You",
+      "has_synced": false,
+      "path": "select/06_Generations_Of_Love_(Lala_Gone_Gaga_Mix)_Jesus_Loves_You.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "L.A. Love (LALA) (feat. YG)",
+      "artist": "Fergie",
+      "has_synced": true,
+      "path": "select/07_L.A._Love_(LALA)_(feat._YG)_Fergie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Little Love",
+      "artist": "馮曦妤",
+      "has_synced": true,
+      "path": "select/08_A_Little_Love_馮曦妤.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Little Love",
+      "artist": "Fiona Fung",
+      "has_synced": true,
+      "path": "select/09_A_Little_Love_Fiona_Fung.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fall In Love",
+      "artist": "Bailey Zimmerman",
+      "has_synced": true,
+      "path": "select/10_Fall_In_Love_Bailey_Zimmerman.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hard To Love",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/11_Hard_To_Love_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Higher Love",
+      "artist": "Kygo feat. Whitney Houston",
+      "has_synced": true,
+      "path": "select/12_Higher_Love_Kygo_feat._Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Don't Like It, I Love It (Mixed)",
+      "artist": "Flo Rida feat. Robin Thicke & Verdine White",
+      "has_synced": false,
+      "path": "select/13_I_Don't_Like_It,_I_Love_It_(Mixed)_Flo_Rida_feat._Robin_Thicke_&_Verdine_White.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Want To Know What Love Is - Remastered",
+      "artist": "Foreigner",
+      "has_synced": false,
+      "path": "select/14_I_Want_To_Know_What_Love_Is_-_Remastered_Foreigner.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "If I Didn't Love You",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/15_If_I_Didn't_Love_You_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Like I Love Country Music",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/16_Like_I_Love_Country_Music_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Like I Love Country Music",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/17_Like_I_Love_Country_Music_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Love Is",
+      "artist": "Alannah Myles",
+      "has_synced": true,
+      "path": "select/18_Love_Is_Alannah_Myles.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Love Me Like",
+      "artist": "Ludic",
+      "has_synced": true,
+      "path": "select/19_Love_Me_Like_Ludic.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Love Me Like",
+      "artist": "LÜdic",
+      "has_synced": true,
+      "path": "select/20_Love_Me_Like_LÜdic.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Love Talking",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/21_Love_Talking_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Love Tonight (Edit)",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/22_Love_Tonight_(Edit)_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Love You Like I Used To",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/23_Love_You_Like_I_Used_To_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Love, Cold Beer, Cheap Smoke",
+      "artist": "Elvie Shane",
+      "has_synced": true,
+      "path": "select/24_Love,_Cold_Beer,_Cheap_Smoke_Elvie_Shane.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Modern Love",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/25_Modern_Love_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love, lala ~恋の行方~",
+      "artist": "eill",
+      "has_synced": false,
+      "path": "select/pl_01_Love,_lala_~恋の行方~_eill.txt"
+    }
+  ]
+}
