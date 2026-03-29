@@ -1,0 +1,49 @@
+# eill – Love, lala ~恋の行方~
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+蒼い海のハイウェイ
+永遠ほど遠くない
+未来地図の先へ連れてって
+I’ve got a crush on you
+ひと夏の赤い糸で
+Love again, love again
+独り占めさせてね
+I think I’m falling, lover
+このまま会いたいわ
+あなたと歩く恋の行方
+It’s sweet & sour with you
+I think I’m falling, lover
+渚で追いかけて
+あなたの足跡に重ねた心は
+It’s sweet & sour again
+Love, la la…
+I’ve got a crush on you
+ひと夏の淡い夢
+Kiss me again, kiss me again
+秘密の入江まで
+I think I’m falling, lover
+このまま会いたいわ
+あなたと歩く恋の行方
+It’s sweet & sour with you
+I think I’m falling, lover
+いじわるな この星が
+あなたを眠らせない夜には
+抱きしめて
+I swear to love again
+Supernatural
+You & I,
+shooting like a star of luck
+What a ride, we both got stuck
+Like a fruit when it’s ripe
+We’re tangled, borderline
+It’s so delicious
+Right?
+Midnight drive-in theater
+Kissed you, tastes like Coke
+Fizzing under the moonlight
+Starlight’s calling —
+love, la la
+I think I’m falling, love
+```
